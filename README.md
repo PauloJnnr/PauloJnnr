@@ -9,8 +9,8 @@ Aqui você encontra meus projetos, estudos e experimentos em tecnologia.
 
 
 ## 🛠️ Tecnologias e Ferramentas
-- Linguagens: `Python` | `JavaScript` |
-- Frameworks: `React` | `Node.js` | `Django` | 
+- Linguagens: `Python` | `JavaScript` 
+- Frameworks: `React` | `Node.js` | `Django` 
 - Banco de Dados: `MySQL` | `FireBird`
 - Ferramentas: `Git` | `VS Code`
 
