@@ -7,7 +7,7 @@ Aqui você encontra meus projetos, estudos e experimentos em tecnologia.
 - 🌱 Estudando: **Full Stack Python**
 - 📫 Como me encontrar: **paulopsjnr@gmail.com**
 - <p>
-  <a target=blank href="https://instagram.com/paulojnnr">
+  <a target=_blank href="https://instagram.com/paulojnnr">
     <img src="https://img.shields.io/badge/Instagram-paulojnnr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @paulojnnr" />
   </a>
 </p>
