@@ -11,6 +11,7 @@ Aqui você encontra meus projetos, estudos e experimentos em tecnologia.
     <img src="https://img.shields.io/badge/Instagram-paulojnnr-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram: @paulojnnr" />
   </a>
 </p>
+[![Instagram](https://img.shields.io/badge/Instagram-paulojnnr-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paulojnnr)
 
 
 ## 🛠️ Tecnologias e Ferramentas
