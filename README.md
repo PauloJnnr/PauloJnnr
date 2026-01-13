@@ -1,4 +1,8 @@
-## Hi there 👋
+# 👋 Olá, eu sou Paulo
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USUARIO&layout=compact&langs_count=7&theme=dracula"/>
+Bem-vindo ao meu GitHub! 🚀  
+Aqui você encontra meus projetos, estudos e experimentos em tecnologia.
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloJnnr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloJnnr&layout=compact&langs_count=7&theme=dracula"/>
