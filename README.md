@@ -31,7 +31,7 @@ Aqui você encontra meus projetos, estudos e experimentos em tecnologia.
 
 
 
-<p align="center" width>
+<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PauloJnnr&show_icons=true&theme=dracula" height="157" />﻿
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PauloJnnr&layout=compact&theme=dracula" height="157" />
 </p>
